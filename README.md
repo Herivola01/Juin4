@@ -1,4 +1,4 @@
-rm - rf Juin4
+rm -rf Juin4
 
 pkg update
 
